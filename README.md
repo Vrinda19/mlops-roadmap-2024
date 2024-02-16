@@ -3,7 +3,7 @@
 ## 1. Programming
 Programming skills are crucial for an MLOps engineer. Python is the most commonly used language in machine learning, making it important for collaboration with machine learning engineers and data scientists.
 
-### 1.1. Python & IDEs
+### 1.1. Python 
 Start learning Python through books and practice.
 - **Tutorial Suggestion:** https://realpython.com
 - **Book Suggestion:** [Python Crash Course, 3rd Edition](https://www.amazon.com/stores/Eric-Matthes/author/B01DPU378I?ref=ap_rdr&store_ref=ap_rdr&isDramIntegrated=true&shoppingPortalEnabled=true) by Eric Matthes
@@ -12,6 +12,9 @@ Start learning Python through books and practice.
 - **Track Suggestions:** [Python fundamentals](https://app.datacamp.com/learn/skill-tracks/python-fundamentals), [Python programming](https://app.datacamp.com/learn/skill-tracks/python-programming)
 
 - **Important Topics:** [Installing Python, using virtual environments](https://marvelousmlops.substack.com/p/the-right-way-to-install-python-on), [IDE usage](https://mlops.community/how-to-configure-vs-code-for-ai-ml-and-mlops-development-in-python-🛠%EF%B8%8F%EF%B8%8F/), Python basics, [Pytest](https://app.datacamp.com/learn/skill-tracks/python-programming), [Packaging](https://www.freecodecamp.org/news/how-to-build-and-publish-python-packages-with-poetry/)
+
+### Visual Studio Extensions
+-- Pyright: Pyright is a full-featured, standards-based static type checker for Python. It is designed for high performance and can be used with large Python source bases. (https://pypi.org/project/pyright/)
 
 ### 1.2. Bash Basics & Command Line Editors
 Understanding bash is essential for MLOps tasks.
