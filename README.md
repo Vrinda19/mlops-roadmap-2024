@@ -14,7 +14,7 @@ Start learning Python through books and practice.
 - **Important Topics:** [Installing Python, using virtual environments](https://marvelousmlops.substack.com/p/the-right-way-to-install-python-on), [IDE usage](https://mlops.community/how-to-configure-vs-code-for-ai-ml-and-mlops-development-in-python-🛠%EF%B8%8F%EF%B8%8F/), Python basics, [Pytest](https://app.datacamp.com/learn/skill-tracks/python-programming), [Packaging](https://www.freecodecamp.org/news/how-to-build-and-publish-python-packages-with-poetry/)
 
 ### Visual Studio Extensions
--- Pyright: Pyright is a full-featured, standards-based static type checker for Python. It is designed for high performance and can be used with large Python source bases. (https://pypi.org/project/pyright/)
+- Pyright: Pyright is a full-featured, standards-based static type checker for Python. It is designed for high performance and can be used with large Python source bases. [Pyright](https://pypi.org/project/pyright/)
 
 ### 1.2. Bash Basics & Command Line Editors
 Understanding bash is essential for MLOps tasks.
